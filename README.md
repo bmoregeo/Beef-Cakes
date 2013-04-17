@@ -1,9 +1,9 @@
-Beef-Cakes
+Turkey-Cakes
 ==========
 
-![Beef Cake Photo](https://raw.github.com/bmoregeo/Beef-Cakes/master/assets/pictures/turkey_cakes.jpg)
+![Turkey Cake Photo](assets/pictures/turkey_cakes.jpg)
 
-A recipe for a delicious beefy snack.  Beef Cakes are basically meat loaf cooked in single serving cup cake tins.  However, they allow a greater level of customization with toppings and ingredients.
+A recipe for a delicious beefy snack (if you have a good imagination).  Turkey Cakes are basically meat loaf cooked in single serving cup cake tins.  However, they allow a greater level of customization with toppings and ingredients.
 
 Rationale
 ----------
