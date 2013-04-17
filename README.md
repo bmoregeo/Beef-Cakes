@@ -37,7 +37,7 @@ Feel free to fork this repository and make your own rendition.  I will try out a
 2. Using the knife, cut small holes in the bottom of the cup cake tin. This will allow grease and all the bad stuff leak out the bottom of the tin.
 3. Smash up the stale bread into smaller bits
 4. Pull the bacon out and set aside for a bit.
-5. Practice your turkey calls... you'll need this later
+5. Practice your [turkey calls](http://www.youtube.com/watch?v=0UBwkHwPZaE)... you'll need this later
 
 ### Making the Turkey Cups (15 minutes)
 1. Open the package of `turkey bacon` and layer the turkey bacon across the cup cake tin. Make sure to fill in the bottom of the cupcake tin. The turkey bacon will be used as a container to hold the ground turkey mixture.
